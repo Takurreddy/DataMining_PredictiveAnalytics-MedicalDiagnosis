@@ -2,6 +2,8 @@
 
 A machine learning project that predicts diseases based on patient symptoms using four classification algorithms — **Naive Bayes**, **Random Forest**, **SVM (Support Vector Machine)**, and **Decision Tree (J48)**.
 
+This project is done by using the WEKA tool and with a Kaggle Dataset.
+
 > **Project by:** Mukku Takur | Sk. Hasan | M. Harsha | T. Rishi Vardhan  
 > **Institution:** Aditya University, Department of AIML  
 > **Guide:** Mrs. S. Pravallika, M.Tech.
